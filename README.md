@@ -66,6 +66,7 @@ Dynamic Visualizations
 **🛠 Technologies Used**
 
 Technology	            Purpose
+
 Power BI	              Interactive dashboard development and data visualization
 
 Power Query	            Data cleaning and transformation
