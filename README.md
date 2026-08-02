@@ -65,19 +65,19 @@ Dynamic Visualizations
 
 **🛠 Technologies Used**
 
-Technology	            Purpose
 
-Power BI	              Interactive dashboard development and data visualization
 
-Power Query	            Data cleaning and transformation
+Power BI	:              Interactive dashboard development and data visualization
 
-SQL	                    Data extraction, aggregation, KPI calculation, and business analysis
+Power Query	:            Data cleaning and transformation
 
-Python (Pandas, NumPy)	Data preprocessing, cleaning, and exploratory data analysis (EDA)
+SQL	 :                   Data extraction, aggregation, KPI calculation, and business analysis
 
-DAX	                    KPI calculations, measures, and calculated columns
+Python (Pandas, NumPy):	Data preprocessing, cleaning, and exploratory data analysis (EDA)
 
-Microsoft Excel	        Source dataset and initial data preparation
+DAX	     :               KPI calculations, measures, and calculated columns
+
+Microsoft Excel	  :      Source dataset and initial data preparation
 
 ** 👨‍💻 SQL was used to:**
 
