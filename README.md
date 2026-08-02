@@ -4,8 +4,7 @@ This dashboard provides a comprehensive analysis of Blinkit's sales performance 
 It enables users to explore trends and make data-driven decisions using interactive filters and dynamic visuals.
 
 ## 📊 Dashboard Preview
-
-![Dashboard](Images/dashboard-overview.png)
+<img src="./dashboard-overview.png" width="100%">
 
 🎯 Problem Statement
 Retail businesses generate large volumes of sales data every day. Analyzing this data manually is time-consuming and often fails to reveal meaningful insights.
