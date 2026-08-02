@@ -5,13 +5,7 @@ It enables users to explore trends and make data-driven decisions using interact
 
 ## 📊 Dashboard Preview
 
-<h2>📊 Dashboard Preview</h2>
-
-<p align="center">
-    <img src="Images/dashboard-overview.png"
-         alt="Blinkit Sales Analytics Dashboard"
-         width="1000">
-</p>
+![Dashboard](dashboard-overview.png)
 
 🎯 Problem Statement
 Retail businesses generate large volumes of sales data every day. Analyzing this data manually is time-consuming and often fails to reveal meaningful insights.
