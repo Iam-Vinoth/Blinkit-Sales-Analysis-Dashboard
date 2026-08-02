@@ -1,4 +1,5 @@
 📌 Project Overview
+
 This dashboard provides a comprehensive analysis of Blinkit's sales performance by visualizing key business metrics such as sales, customer ratings, outlet performance, and product categories.
 
 It enables users to explore trends and make data-driven decisions using interactive filters and dynamic visuals.
