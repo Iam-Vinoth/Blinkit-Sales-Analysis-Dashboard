@@ -28,12 +28,14 @@ Build interactive dashboards for business users.
 Support data-driven decision-making.
 
 **Dashboard KPIs**
+
 Total Sales
 Average Sales
 Number of Items
 Average Rating
 
 **Dashboard Features**
+
 KPI Cards
 Sales Trend Analysis
 Outlet Performance Analysis
@@ -43,6 +45,7 @@ Interactive Filters
 Dynamic Visualizations
 
 **Technologies Used**
+
 Technology	            Purpose
 Power BI	              Interactive dashboard development and data visualization
 Power Query	            Data cleaning and transformation
@@ -81,6 +84,7 @@ NumPy
 Matplotlib
 
   **Business Insights**  
+  
 Tier 3 outlets contribute the highest sales.
 Medium-sized outlets generate the largest revenue share.
 Fruits, Snacks, and Household items are top-selling categories.
@@ -89,6 +93,7 @@ Sales increased significantly after 2018.
 Both Low Fat and Regular products contribute substantially to total sales.
 
 **Business Recommendations**
+
 Expand high-performing Tier 3 outlets.
 Increase inventory for high-demand categories.
 Improve visibility of low-performing products.
