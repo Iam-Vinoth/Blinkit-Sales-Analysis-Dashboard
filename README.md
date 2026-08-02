@@ -30,8 +30,11 @@ Support data-driven decision-making.
 **Dashboard KPIs**
 
 Total Sales
+
 Average Sales
+
 Number of Items
+
 Average Rating
 
 **Dashboard Features**
