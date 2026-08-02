@@ -11,7 +11,7 @@ It enables users to explore trends and make data-driven decisions using interact
 
 Retail businesses generate large volumes of sales data every day. Analyzing this data manually is time-consuming and often fails to reveal meaningful insights.
 
-**This dashboard helps:**
+**📊 This dashboard helps:**
 
 Monitor overall sales performance
 
@@ -23,7 +23,7 @@ Identify top-selling product categories
 
 Support business decision-making
 
-**Project Objectives**
+**✨ Project Objectives**
 
 Analyze overall sales performance.
 
@@ -37,7 +37,7 @@ Build interactive dashboards for business users.
 
 Support data-driven decision-making.
 
-**Dashboard KPIs**
+**📈 Dashboard KPIs**
 
 Total Sales
 
@@ -47,7 +47,7 @@ Number of Items
 
 Average Rating
 
-**Dashboard Features**
+**🚀Dashboard Features**
 
 KPI Cards
 
@@ -63,7 +63,7 @@ Interactive Filters
 
 Dynamic Visualizations
 
-**Technologies Used**
+**🛠 Technologies Used**
 
 Technology	            Purpose
 Power BI	              Interactive dashboard development and data visualization
@@ -78,7 +78,7 @@ DAX	                    KPI calculations, measures, and calculated columns
 
 Microsoft Excel	        Source dataset and initial data preparation
 
-**SQL was used to:**
+** 👨‍💻 SQL was used to:**
 
 Calculate Total Sales
 
@@ -99,7 +99,7 @@ Analyze Sales Trends
 Validate dashboard KPIs
 
 
-**Python was used for:**
+**👨‍💻 Python was used for:**
 
 Importing the dataset
 
@@ -123,7 +123,7 @@ NumPy
 
 Matplotlib
 
-  **Business Insights**  
+  **📈 Business Insights**  
   
 Tier 3 outlets contribute the highest sales.
 
@@ -137,7 +137,7 @@ Sales increased significantly after 2018.
 
 Both Low Fat and Regular products contribute substantially to total sales.
 
-**Business Recommendations**
+**🎯 Business Recommendations**
 
 Expand high-performing Tier 3 outlets.
 
